@@ -1,0 +1,39 @@
+_repo: Luolaihmiset-Kertomus-ihmissuvun-alkuajoilta_67902
+_version: 0.0.1
+alternative_title: The Story of Ab. Finnish
+contributor:
+  translator:
+    agent_name: Wallenius, Toivo
+    birthdate: 1881
+    deathdate: 1919
+    gutenberg_agent_id: '43144'
+    url: http://www.gutenberg.org/2009/agents/43144
+    wikipedia: https://fi.wikipedia.org/wiki/Toivo_Wallenius
+creator:
+  author:
+    agent_name: Waterloo, Stanley
+    birthdate: 1846
+    deathdate: 1913
+    gutenberg_agent_id: '2830'
+    url: http://www.gutenberg.org/2009/agents/2830
+    wikipedia: https://en.wikipedia.org/wiki/Stanley_Waterloo
+description: ''
+gutenberg_issued: '2022-04-22'
+identifiers:
+  gutenberg: '67902'
+language: fi
+pgterms:marc905: 20220326030450waterloo
+pgterms:marc906: '1908'
+pgterms:marc907: FI
+production_note: Timo Ervasti and Tapio Riikonen
+publication_note: Finland :Kust.Oy Otava,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Prehistoric peoples -- Fiction'
+- GITenberg
+title: 'Luolaihmiset: Kertomus ihmissuvun alkuajoilta'
+url: http://www.gutenberg.org/ebooks/67902
