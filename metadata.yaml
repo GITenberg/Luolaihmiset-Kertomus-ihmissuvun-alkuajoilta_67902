@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '43144'
     url: http://www.gutenberg.org/2009/agents/43144
     wikipedia: https://fi.wikipedia.org/wiki/Toivo_Wallenius
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Waterloo, Stanley
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2830
     wikipedia: https://en.wikipedia.org/wiki/Stanley_Waterloo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67902#Luolaihmiset-Kertomus-ihmissuvun-alkuajoilta
 gutenberg_issued: '2022-04-22'
 identifiers:
   gutenberg: '67902'
